@@ -15,7 +15,7 @@ Deployment:
 Creating a web interface using Flask.
 Deploying the application on Render for live classification of incoming emails.
 
-Deployment link: https://email-spam-prediction-5lfh.onrender.com
+Deployment link: https://email-spam-prediction-saurabh.onrender.com
 
 The goal of this project is to create an efficient and reliable system for identifying spam emails, helping to improve email management and security.
 
